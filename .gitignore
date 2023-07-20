@@ -1,3 +1,6 @@
 /**/*.blend1
 /**/*.gcode
-/**/*.stl
+/wargames/warcry/**/*.stl
+/wargames/warhammer/**/*.stl
+/diorama/*.stl
+/home/**/*.stl
