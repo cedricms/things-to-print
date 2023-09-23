@@ -1,6 +1,8 @@
 /**/*.blend1
 /**/*.gcode
-/wargames/warcry/**/*.stl
-/wargames/warhammer/**/*.stl
 /diorama/*.stl
 /home/**/*.stl
+/home/medal-hanger/medal-hanger-badminton/*.stl
+/home/worktable/*.stl
+/wargames/warhammer/*.stl
+/wargames/warcry/**/*.stl
